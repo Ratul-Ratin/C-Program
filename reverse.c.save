@@ -1,0 +1,23 @@
+#include<stdio.h>
+void main()
+{
+    int n,reminder,rn=0;
+
+    printf("Enter a number:");
+    scanf("%d",&n);
+
+    while (n!=0)
+    {
+        reminder = n%10;
+        rn = rn*10 +reminder;
+
+        n/=10;
+
+    }
+
+    printf("\nYour Number:%d",n);
+    printf("\nReverse Number:%d",rn);
+
+
+
+}

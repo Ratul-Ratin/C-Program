@@ -1,0 +1,68 @@
+---------------Problem Sequence-----------------
+***quadratic
+***bill using ternary
+***electricity bill
+***Reverse number
+***Palindrome number
+***Armstrong number
+***Prime Number
+-------------------------------------------------
+
+
+1. Prime Number (মৌলিক সংখ্যা)
+
+যে সংখ্যার মাত্র দুইটি গুণনীয়ক থাকে—১ এবং সংখ্যাটি নিজে—তাকে Prime Number বলে।
+
+Example:
+
+2 → (1, 2)
+3 → (1, 3)
+5 → (1, 5)
+7 → (1, 7)
+
+Not Prime number:
+
+4 → (1, 2, 4)
+6 → (1, 2, 3, 6)
+
+
+2. Armstrong Number
+
+যদি কোনো সংখ্যার প্রতিটি অঙ্ককে তার মোট অঙ্কসংখ্যা অনুযায়ী ঘাত করে যোগ করলে আবার সেই সংখ্যাটিই পাওয়া যায়, তাহলে তাকে Armstrong Number বলে।
+
+Example: 153
+
+= 1³ + 5³ + 3³
+= 1 + 125 + 27
+= 153
+
+More example:
+153
+370
+371
+407
+
+3. Palindrome Number
+
+যে সংখ্যা উল্টো দিক থেকে পড়লেও একই থাকে, তাকে Palindrome Number বলে।
+
+Example:
+121
+131
+1221
+999
+
+Not Palindrome:
+123
+456
+
+
+4. Reverse of a Number
+
+একটি সংখ্যাকে উল্টো করে লিখলে যে সংখ্যা পাওয়া যায়, সেটাই Reverse।
+
+Example:
+
+597 → 795
+1234 → 4321
+
